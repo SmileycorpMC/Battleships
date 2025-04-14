@@ -1,0 +1,14 @@
+O:\misc projects\Battleships\Battleships\obj\Debug\net9.0\Battleships.GeneratedMSBuildEditorConfig.editorconfig
+O:\misc projects\Battleships\Battleships\obj\Debug\net9.0\Battleships.AssemblyInfoInputs.cache
+O:\misc projects\Battleships\Battleships\obj\Debug\net9.0\Battleships.AssemblyInfo.cs
+O:\misc projects\Battleships\Battleships\obj\Debug\net9.0\Battleships.csproj.CoreCompileInputs.cache
+O:\misc projects\Battleships\Battleships\bin\Debug\net9.0\Battleships.exe
+O:\misc projects\Battleships\Battleships\bin\Debug\net9.0\Battleships.deps.json
+O:\misc projects\Battleships\Battleships\bin\Debug\net9.0\Battleships.runtimeconfig.json
+O:\misc projects\Battleships\Battleships\bin\Debug\net9.0\Battleships.dll
+O:\misc projects\Battleships\Battleships\bin\Debug\net9.0\Battleships.pdb
+O:\misc projects\Battleships\Battleships\obj\Debug\net9.0\Battleships.dll
+O:\misc projects\Battleships\Battleships\obj\Debug\net9.0\refint\Battleships.dll
+O:\misc projects\Battleships\Battleships\obj\Debug\net9.0\Battleships.pdb
+O:\misc projects\Battleships\Battleships\obj\Debug\net9.0\Battleships.genruntimeconfig.cache
+O:\misc projects\Battleships\Battleships\obj\Debug\net9.0\ref\Battleships.dll
